@@ -1,1 +1,1 @@
-# heczfs.github.io
+# inspiriodev.github.io
